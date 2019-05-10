@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 
 public class JDBCEx {
-	
+	// this is jdbc class
 	public static void main(String[] args) throws SQLException, ClassNotFoundException {
 		//Class.forName("com.mysql.jdbc.Driver"); 
 		//new oracle.jdbc.driver.OracleDriver();
